@@ -2,7 +2,7 @@
  This Repository has all notes that I've taken through the ITI Cybersecurity Academy for Undergraduates.
 
 ---
-## Akademy Courses Outline:
+## Academy Courses Outline:
 - Computer Network Fundamentals.
 - Introduction to Network Security.
 - Ethical hacking (CEH).
